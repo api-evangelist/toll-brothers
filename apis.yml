@@ -1,7 +1,12 @@
 aid: toll-brothers
-url: https://raw.githubusercontent.com/api-evangelist/toll-brothers/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/toll-brothers/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.toll-brothers.com
+description: >-
+  Toll Brothers is a Fortune 500 company and the leading builder of luxury homes,
+  designing, building, marketing, and arranging financing for an array of luxury residential
+  single-family detached, attached, and master planned communities.
