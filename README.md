@@ -1,33 +1,38 @@
-# Toll Brothers (toll-brothers)
-Toll Brothers is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Toll Brothers.
+# Toll Brothers
+
+Toll Brothers is the nation's leading builder of luxury homes, designing, building, marketing, and arranging financing for luxury residential communities across the United States. Named #1 Most Admired Home Builder in Fortune magazine's 2026 list of the World's Most Admired Companies.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/toll-brothers/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
+- **Type:** Index
+- **Position:** Consumer
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+ - Real Estate, Homebuilding, Luxury Homes, Construction, Fortune 500
 
 ## Timestamps
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Created:** 2025-01-01
+- **Modified:** 2026-05-03
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public developer APIs have been documented. Toll Brothers does not publish a public API. The company operates as a luxury homebuilder with consumer-facing home search functionality at tollbrothers.com.
 
 ## Common Properties
 
-- [Website](https://www.toll-brothers.com)
+- [Website](https://www.tollbrothers.com)
+- [About](https://ir.tollbrothers.com/overview/default.aspx)
+- [Investor Relations](https://ir.tollbrothers.com/)
+- [Blog](https://www.tollbrothers.com/blog)
+- [LinkedIn](https://www.linkedin.com/company/toll-brothers)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
