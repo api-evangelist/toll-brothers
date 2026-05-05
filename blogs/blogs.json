@@ -1,0 +1,13 @@
+{
+  "repo": "toll-brothers",
+  "feeds": [
+    {
+      "source": "https://www.tollbrothers.com/blog",
+      "feed_url": "https://www.tollbrothers.com/blog/feed",
+      "saved": 7,
+      "title": "Build Beautiful"
+    }
+  ],
+  "post_count": 7,
+  "fetched": "2026-05-03T23:37:30Z"
+}
