@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://www.tollbrothers.com/blog",
-      "feed_url": "https://www.tollbrothers.com/blog/feed",
-      "saved": 7,
-      "title": "Build Beautiful"
+      "feed_url": "https://www.tollbrothers.com/blog/feed/",
+      "title": "Build Beautiful",
+      "saved": 6
     }
   ],
-  "post_count": 7,
-  "fetched": "2026-05-03T23:37:30Z"
+  "post_count": 13,
+  "fetched": "2026-05-09T20:17:51Z"
 }
