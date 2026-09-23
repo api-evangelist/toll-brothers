@@ -1,7 +1,9 @@
 ---
 title: Toll Brothers Technographics, Software Purchases, AI and ...
 url: https://www.appsruntheworld.com/customers-database/customers/view/toll-brothers-inc-united-states
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Toll Brothers" press release artificial intelligence'
 position: 5
 source: serpapi-google

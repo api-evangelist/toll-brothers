@@ -1,7 +1,9 @@
 ---
 title: Toll Brothers Pulls Back on Home Deliveries Outlook
 url: https://www.wsj.com/business/earnings/toll-brothers-pulls-back-on-home-deliveries-outlook-875f132d
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Toll Brothers" press release artificial intelligence'
 position: 4
 source: serpapi-google

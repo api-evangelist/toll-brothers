@@ -1,7 +1,9 @@
 ---
 title: Toll Brothers Expands into Fayetteville/Bentonville Market
 url: https://www.linkedin.com/posts/toll-brothers_toll-brothers-to-acquire-private-home-builder-activity-7452476332933992449-KSDp
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Toll Brothers" press release artificial intelligence'
 position: 3
 source: serpapi-google
